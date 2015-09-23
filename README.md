@@ -32,4 +32,4 @@ You can run the unit tests with the following command:
 
 
 [_Composer]: http://getcomposer.org
-[_php-ioc.zip]: https://github.com/itlessons/php-ioc/archive/master.zip
+[_php-cron.zip]: https://github.com/itlessons/php-ioc/archive/master.zip

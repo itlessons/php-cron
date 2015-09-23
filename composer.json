@@ -1,0 +1,26 @@
+{
+  "name": "itlessons/php-cron",
+  "type": "library",
+  "description": "PHP Cron Library",
+  "keywords": [
+    "cron"
+  ],
+  "homepage": "https://github.com/itlessons/php-cron",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "itlessons",
+      "homepage": "http://www.itlessons.info"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cron\\": "src/Cron"
+    }
+  },
+  "version": "0.0.1",
+  "minimum-stability": "dev"
+}
